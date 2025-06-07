@@ -1,6 +1,6 @@
-# Gentoo Installation Guide
+# Gentoo Installation Guide:
 
-This guide provides a detailed, step-by-step process for installing Gentoo Linux. It's designed to be comprehensive and easy to follow, making the installation process as smooth as possible.
+HandBook Link:(https://wiki.gentoo.org/wiki/Handbook:AMD64)
 
 ## Table of Contents
 
